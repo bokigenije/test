@@ -1,3 +1,3 @@
 <?php
-  echo 'test BM2'; 
+  echo 'test BM2 drugi put'; 
 ?>
